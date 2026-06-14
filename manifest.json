@@ -1,5 +1,4 @@
 [
-  { "filename": "wind.gz", "description": "Wind (Annual)", "checksum": "", "size": 0 },
   { "filename": "wind01.gz", "description": "Wind January", "checksum": "", "size": 0 },
   { "filename": "wind02.gz", "description": "Wind February", "checksum": "", "size": 0 },
   { "filename": "wind03.gz", "description": "Wind March", "checksum": "", "size": 0 },
@@ -13,7 +12,6 @@
   { "filename": "wind11.gz", "description": "Wind November", "checksum": "", "size": 0 },
   { "filename": "wind12.gz", "description": "Wind December", "checksum": "", "size": 0 },
 
-  { "filename": "current.gz", "description": "Currents (Annual)", "checksum": "", "size": 0 },
   { "filename": "current01.gz", "description": "Currents January", "checksum": "", "size": 0 },
   { "filename": "current02.gz", "description": "Currents February", "checksum": "", "size": 0 },
   { "filename": "current03.gz", "description": "Currents March", "checksum": "", "size": 0 },
